@@ -66,3 +66,26 @@ cd codinquest
 npm install
 # or
 yarn install
+```
+2. Create a .env.local file in the root directory and add your environment variables:
+```bash
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+CONVEX_DEPLOYMENT=your_convex_deployment
+NEXT_PUBLIC_CONVEX_URL=your_convex_url
+NEXT_PUBLIC_STREAM_API_KEY=your_stream_api_key
+STREAM_SECRET_KEY=your_stream_secret_key
+CLERK_FRONTEND_API_URL=your_clerk_frontend_api_url
+```
+3. Start the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+## 📖 Documentation & Useful Links
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Clerk Documentation](https://clerk.com/docs)
+- [Convex Documentation](https://docs.convex.dev)
+- [Stream.io Documentation](https://getstream.io/video/docs/)
