@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2025-09-07 at 11 59 36 PM" src="https://github.com/user-attachments/assets/70000c64-7fe9-4643-9cdb-d3d0b9c2907e" /># CodinQuest - Online Coding Interview Platform
+# CodinQuest - Online Coding Interview Platform
 
 > CodinQuest is a coding interview platform built with **Next.js**, featuring realtime video calls, screen sharing, and a live code editor for online interviews. Optimized for both **interviewers and candidates**.
 
@@ -34,36 +34,23 @@
 
 ## Screenshots
 
-### Screens 1–4
 | Home | Dashboard | New Call Screen | Join Meeting Tab |
 |------|-----------|-----------------|-----------------|
-| <img width="300" src="https://github.com/user-attachments/assets/b6320650-a48b-4a16-b6c8-034c5d1909d6" /> | <img width="300" src="https://github.com/user-attachments/assets/0bfd2b5d-13bc-4542-b637-099f174d2ce5" /> | <img width="300" src="https://github.com/user-attachments/assets/5d358fb4-3d54-40fb-a045-2a970167cc7b" /> | <img width="300" src="https://github.com/user-attachments/assets/c74bc58d-5c49-41d8-9d7c-a554870fd679" /> |
+| <img width="350" src="https://github.com/user-attachments/assets/b6320650-a48b-4a16-b6c8-034c5d1909d6" /> | <img width="350" src="https://github.com/user-attachments/assets/0bfd2b5d-13bc-4542-b637-099f174d2ce5" /> | <img width="350" src="https://github.com/user-attachments/assets/5d358fb4-3d54-40fb-a045-2a970167cc7b" /> | <img width="350" src="https://github.com/user-attachments/assets/c74bc58d-5c49-41d8-9d7c-a554870fd679" /> |
 
 ---
 
-### Screens 5–8
 | Interview Call | Scheduled Interview | Schedule New Interview | Recordings |
 |----------------|----------------------|------------------------|------------|
-| <img width="300" src="https://github.com/user-attachments/assets/709a18a2-0652-4e6e-a57c-405eab52563f" /> | <img width="300" src="https://github.com/user-attachments/assets/89ee72c6-e254-47f7-b1e5-66f515f52ace" /> | 
-<img width="1470" height="956" alt="Screenshot 2025-09-07 at 11 59 36 PM" src="https://github.com/user-attachments/assets/d3260747-8521-4841-beb8-d788700e5cf2" /> |
-| <img width="300" src="https://github.com/user-attachments/assets/51e35db2-4f4f-4702-841f-57db7c31586a" /> |
+| <img width="350" src="https://github.com/user-attachments/assets/709a18a2-0652-4e6e-a57c-405eab52563f" /> | <img width="350" src="https://github.com/user-attachments/assets/89ee72c6-e254-47f7-b1e5-66f515f52ace" /> | <img width="350" src="https://github.com/user-attachments/assets/51e35db2-4f4f-4702-841f-57db7c31586a" /> | <img width="350" src="https://github.com/user-attachments/assets/4574570a-5f4a-43a7-8691-a57c959bbdca" /> |
 
-
----  
-
-### Screen 9
+---
+##Candidate
 | Candidate Dashboard |
 |---------------------|
 | <img width="300" src="https://github.com/user-attachments/assets/4574570a-5f4a-43a7-8691-a57c959bbdca" /> |
 
-
-
-
-
-
-
-
-
+---
 
 ---
 
